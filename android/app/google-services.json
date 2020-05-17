@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "184505046592",
+    "firebase_url": "https://ecommerce-fb239.firebaseio.com",
+    "project_id": "ecommerce-fb239",
+    "storage_bucket": "ecommerce-fb239.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184505046592:android:b75071a3595687584ff1a5",
+        "android_client_info": {
+          "package_name": "com.example.bookbeauty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184505046592-8fnjrhdnaf3usci0mrf6mnhl89k2chs6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bookbeauty",
+            "certificate_hash": "7ca2cc99cef924e3cf45637899864dc78aa5371f"
+          }
+        },
+        {
+          "client_id": "184505046592-n07uhaqd27sn395g7fs0865mqa46ipeb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANdtyd6BLG0zAS_0x-NFOi2mxt37HmC2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184505046592-n07uhaqd27sn395g7fs0865mqa46ipeb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
